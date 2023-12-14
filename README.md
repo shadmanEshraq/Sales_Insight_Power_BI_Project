@@ -58,6 +58,8 @@ The data analyst team connects to the SQL database, performs ETL, and based on t
 - Change in revenue Year-over-year
 - Table showing revenue, revenue contribution, and profit margin contribution on different customers.
 
+The live dashboard is available [here](https://www.novypro.com/project/sales-insights-power-bi-5)
+
 
 ## ⛏️ Tools Used  <a name = "a_2_built_using"></a>
 
