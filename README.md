@@ -1,7 +1,7 @@
 <!-- Comment : Project Banner -->
 <p align="center">
   <a href="" rel="noopener">
- <img width=800px height=535px src="/Images/si_cover.png" alt="Project banner"></a>
+ <img width=533px height=357px src="/Images/si_cover.png" alt="Project banner"></a>
 </p>
 
 <!-- ---------------------------------------------------------------- -->
